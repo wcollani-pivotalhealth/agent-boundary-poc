@@ -1,0 +1,4 @@
+key.pem
+*.pem
+.env
+token.txt
